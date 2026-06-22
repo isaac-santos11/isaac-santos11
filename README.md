@@ -1,16 +1,25 @@
-## Hi there 👋
+##👋 Olá, eu sou Isaac Gabriel
 
-<!--
-**isaac-santos11/isaac-santos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
+Atualmente estudo desenvolvimento web com foco em Front-End e Back-End, 
+criando projetos para aprimorar minhas habilidades e construir experiência prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Git
+- GitHub
+
+🎯 Objetivos:
+
+- Me tornar um Desenvolvedor Full Stack
+- Criar aplicações modernas e funcionais
+- Conquistar minha primeira oportunidade na área de tecnologia
+
+📚 Sempre aprendendo, construindo projetos e evoluindo um código de cada vez.
+
+⭐ Explore meus repositórios e acompanhe minha jornada como desenvolvedor.
